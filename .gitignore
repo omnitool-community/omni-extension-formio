@@ -1,0 +1,5 @@
+.yarn/*
+src/**/node_modules/*
+src/**/.yarn/**/*
+fossa*
+.fossa.yml

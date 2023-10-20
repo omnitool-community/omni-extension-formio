@@ -1,0 +1,11 @@
+title: Form.io UI Extension
+version: 0.0.1
+description: Generate Automatic Web UIs for your recipes, powered by [form.io](https://form.io)
+origin: https://github.com/omnitool-ai/omni-extension-formio.git
+author: Georg Zoeller
+supports:
+  - "blocks:v2"
+client:
+  winbox:
+    x: "center"
+    y: "center"

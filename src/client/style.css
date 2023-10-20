@@ -1,0 +1,40 @@
+html, body {
+
+  padding: 4px;
+  font-size: 13px;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
+
+.full
+{
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
+
+.form-check-input:checked,
+.btn-outline-primary:hover,
+.btn-primary
+{
+  background-color: #F19100 ;
+  border-color: #F19100;
+}
+.btn-outline-primary
+{
+  border-color: #F19100;
+}
+
+.btn-primary:hover
+{
+  border-color: #f16800;
+  background-color: #f16800 ;
+}
+
+
+label
+{
+  font-weight: bold;
+}
+
